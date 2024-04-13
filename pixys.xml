@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="kernel/google/msm-4.14" remote="pixys-devices" name="kernel_google_msm-4.14" revision="fourteen-v2" />
+  <project path="vendor/google/coral" remote="pixys-devices" name="vendor_google_coral" revision="fourteen-v2" />
+  <project path="device/nothing/Spacewar" remote="pixys-devices" name="device_nothing_Spacewar" revision="fourteen-v2" />
+  <project path="vendor/nothing/Spacewar" remote="pixys-devices" name="vendor_nothing_Spacewar" revision="fourteen-v2" />
+  <project path="kernel/nothing/sm7325" remote="pixys-devices" name="kernel_nothing_sm7325" revision="fourteen-v2" />
+  <project path="packages/apps/PixysGlyph" remote="pixys-devices" name="packages_apps_PixysGlyph" revision="fourteen-v2" />
+  <project path="vendor/nothing/Spacewar/radio" remote="pixys-gitlab" name="vendor_nothing_Spacewar_radio" revision="fourteen-v2" />
+  <project path="vendor/nothing/camera" remote="pixys-gitlab" name="vendor_nothing_camera" revision="fourteen-v2" />
+</manifest>
